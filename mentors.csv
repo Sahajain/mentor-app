@@ -1,0 +1,101 @@
+id,mentor_name,expertise_subjects,alma_mater,experience_level,teaching_style
+1,Mentor1,"English, Logical Reasoning",NALSAR,Advanced,Auditory
+2,Mentor2,"Legal Reasoning, English",NLU Bhopal,Advanced,Reading/Writing
+3,Mentor3,"GK, Maths",NLU Delhi,Intermediate,Reading/Writing
+4,Mentor4,"Legal Reasoning, Logical Reasoning",NLU Bhopal,Beginner,Visual
+5,Mentor5,"GK, Logical Reasoning",NUJS,Intermediate,Reading/Writing
+6,Mentor6,"Maths, Logical Reasoning",NLU Delhi,Intermediate,Reading/Writing
+7,Mentor7,"Maths, Legal Reasoning",NLU Patna,Intermediate,Reading/Writing
+8,Mentor8,"English, Legal Reasoning",NLSIU,Beginner,Visual
+9,Mentor9,"English, Logical Reasoning",NLU Patna,Intermediate,Visual
+10,Mentor10,"Logical Reasoning, English",NLU Jodhpur,Intermediate,Visual
+11,Mentor11,"GK, Legal Reasoning",NUJS,Advanced,Reading/Writing
+12,Mentor12,"English, GK",NLU Bhopal,Advanced,Visual
+13,Mentor13,"Maths, English",NLSIU,Intermediate,Kinesthetic
+14,Mentor14,"Legal Reasoning, English",NALSAR,Intermediate,Reading/Writing
+15,Mentor15,"English, GK",NLU Jodhpur,Intermediate,Kinesthetic
+16,Mentor16,"GK, Legal Reasoning",NLSIU,Advanced,Auditory
+17,Mentor17,"Maths, English",NLSIU,Advanced,Visual
+18,Mentor18,"Maths, Logical Reasoning",NUJS,Advanced,Reading/Writing
+19,Mentor19,"Maths, Legal Reasoning",NLSIU,Advanced,Kinesthetic
+20,Mentor20,"Logical Reasoning, Legal Reasoning",NLU Delhi,Beginner,Reading/Writing
+21,Mentor21,"GK, Maths",NUJS,Beginner,Kinesthetic
+22,Mentor22,"Logical Reasoning, English",NALSAR,Advanced,Visual
+23,Mentor23,"Legal Reasoning, GK",NLU Delhi,Beginner,Auditory
+24,Mentor24,"Logical Reasoning, Maths",NLU Jodhpur,Intermediate,Auditory
+25,Mentor25,"Logical Reasoning, English",NLU Delhi,Intermediate,Auditory
+26,Mentor26,"Maths, English",NLU Delhi,Intermediate,Reading/Writing
+27,Mentor27,"Logical Reasoning, English",NUJS,Advanced,Visual
+28,Mentor28,"English, Maths",NALSAR,Advanced,Kinesthetic
+29,Mentor29,"Maths, English",NALSAR,Advanced,Reading/Writing
+30,Mentor30,"Maths, English",NLU Patna,Advanced,Auditory
+31,Mentor31,"GK, Maths",NLU Patna,Advanced,Auditory
+32,Mentor32,"English, Maths",NALSAR,Advanced,Auditory
+33,Mentor33,"Maths, Legal Reasoning",NLU Delhi,Advanced,Visual
+34,Mentor34,"Maths, English",NLU Delhi,Beginner,Reading/Writing
+35,Mentor35,"GK, Logical Reasoning",NUJS,Intermediate,Auditory
+36,Mentor36,"Maths, Legal Reasoning",NLU Delhi,Intermediate,Visual
+37,Mentor37,"Legal Reasoning, Logical Reasoning",NUJS,Advanced,Reading/Writing
+38,Mentor38,"English, GK",NLU Bhopal,Intermediate,Reading/Writing
+39,Mentor39,"Logical Reasoning, English",NLU Patna,Beginner,Auditory
+40,Mentor40,"English, Maths",NLSIU,Beginner,Kinesthetic
+41,Mentor41,"GK, English",NUJS,Intermediate,Auditory
+42,Mentor42,"Logical Reasoning, GK",NLSIU,Beginner,Kinesthetic
+43,Mentor43,"Logical Reasoning, GK",NUJS,Beginner,Kinesthetic
+44,Mentor44,"Legal Reasoning, Logical Reasoning",NLU Delhi,Beginner,Auditory
+45,Mentor45,"Legal Reasoning, GK",NLU Jodhpur,Advanced,Kinesthetic
+46,Mentor46,"Maths, GK",NALSAR,Beginner,Visual
+47,Mentor47,"Logical Reasoning, GK",NLU Delhi,Intermediate,Auditory
+48,Mentor48,"Logical Reasoning, Legal Reasoning",NLU Patna,Advanced,Kinesthetic
+49,Mentor49,"GK, Legal Reasoning",NLU Bhopal,Intermediate,Kinesthetic
+50,Mentor50,"English, GK",NLU Patna,Advanced,Auditory
+51,Mentor51,"GK, Logical Reasoning",NALSAR,Beginner,Reading/Writing
+52,Mentor52,"GK, Logical Reasoning",NLU Bhopal,Advanced,Auditory
+53,Mentor53,"Legal Reasoning, Logical Reasoning",NLSIU,Intermediate,Visual
+54,Mentor54,"English, Logical Reasoning",NLU Patna,Intermediate,Reading/Writing
+55,Mentor55,"GK, Legal Reasoning",NLSIU,Intermediate,Reading/Writing
+56,Mentor56,"Logical Reasoning, GK",NALSAR,Advanced,Reading/Writing
+57,Mentor57,"Logical Reasoning, English",NLU Patna,Beginner,Reading/Writing
+58,Mentor58,"GK, English",NLU Patna,Advanced,Auditory
+59,Mentor59,"Legal Reasoning, English",NLU Patna,Intermediate,Reading/Writing
+60,Mentor60,"Maths, GK",NLU Delhi,Beginner,Reading/Writing
+61,Mentor61,"Logical Reasoning, GK",NUJS,Advanced,Reading/Writing
+62,Mentor62,"Logical Reasoning, Legal Reasoning",NALSAR,Beginner,Kinesthetic
+63,Mentor63,"Legal Reasoning, Logical Reasoning",NALSAR,Intermediate,Kinesthetic
+64,Mentor64,"Legal Reasoning, English",NLU Patna,Advanced,Auditory
+65,Mentor65,"GK, Legal Reasoning",NALSAR,Beginner,Auditory
+66,Mentor66,"Legal Reasoning, GK",NLU Delhi,Intermediate,Kinesthetic
+67,Mentor67,"GK, Legal Reasoning",NALSAR,Intermediate,Kinesthetic
+68,Mentor68,"English, GK",NLU Patna,Advanced,Visual
+69,Mentor69,"Maths, Logical Reasoning",NLU Bhopal,Advanced,Auditory
+70,Mentor70,"Logical Reasoning, English",NALSAR,Advanced,Auditory
+71,Mentor71,"GK, English",NALSAR,Intermediate,Auditory
+72,Mentor72,"Logical Reasoning, Legal Reasoning",NLU Bhopal,Advanced,Visual
+73,Mentor73,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Intermediate,Visual
+74,Mentor74,"Logical Reasoning, GK",NLU Jodhpur,Advanced,Auditory
+75,Mentor75,"Maths, Legal Reasoning",NLU Delhi,Beginner,Reading/Writing
+76,Mentor76,"Logical Reasoning, English",NLU Patna,Advanced,Kinesthetic
+77,Mentor77,"GK, Legal Reasoning",NLU Patna,Beginner,Reading/Writing
+78,Mentor78,"Logical Reasoning, GK",NALSAR,Beginner,Auditory
+79,Mentor79,"GK, Logical Reasoning",NUJS,Advanced,Reading/Writing
+80,Mentor80,"GK, Logical Reasoning",NUJS,Intermediate,Kinesthetic
+81,Mentor81,"Legal Reasoning, GK",NLU Delhi,Advanced,Reading/Writing
+82,Mentor82,"Logical Reasoning, Maths",NLU Patna,Beginner,Kinesthetic
+83,Mentor83,"Legal Reasoning, GK",NLSIU,Beginner,Auditory
+84,Mentor84,"Maths, GK",NLU Bhopal,Intermediate,Kinesthetic
+85,Mentor85,"English, Logical Reasoning",NLU Bhopal,Beginner,Auditory
+86,Mentor86,"GK, Maths",NLU Delhi,Beginner,Auditory
+87,Mentor87,"Legal Reasoning, Logical Reasoning",NUJS,Beginner,Kinesthetic
+88,Mentor88,"Maths, Logical Reasoning",NALSAR,Intermediate,Auditory
+89,Mentor89,"Legal Reasoning, Logical Reasoning",NLU Jodhpur,Advanced,Auditory
+90,Mentor90,"Logical Reasoning, GK",NLU Patna,Intermediate,Visual
+91,Mentor91,"Legal Reasoning, GK",NLU Bhopal,Advanced,Visual
+92,Mentor92,"GK, Legal Reasoning",NLU Delhi,Beginner,Visual
+93,Mentor93,"Logical Reasoning, English",NLU Bhopal,Advanced,Auditory
+94,Mentor94,"Maths, GK",NUJS,Intermediate,Visual
+95,Mentor95,"Logical Reasoning, Maths",NUJS,Beginner,Reading/Writing
+96,Mentor96,"Logical Reasoning, Maths",NALSAR,Intermediate,Auditory
+97,Mentor97,"Legal Reasoning, Logical Reasoning",NLU Patna,Intermediate,Auditory
+98,Mentor98,"English, Maths",NLU Jodhpur,Advanced,Visual
+99,Mentor99,"Logical Reasoning, GK",NLU Patna,Advanced,Visual
+100,Mentor100,"GK, Logical Reasoning",NUJS,Intermediate,Visual
